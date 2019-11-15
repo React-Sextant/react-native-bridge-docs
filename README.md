@@ -7,10 +7,10 @@
 ## Android源码目录
 #### com.facebook.react.*
  - uimanager
-   - [SimpleViewManager](/React-Sextant/react-native-bridge-docs/wiki/SimpleViewManager)
-   - [ViewGroupManager](/React-Sextant/react-native-bridge-docs/wiki/ViewGroupManager)
+   - [SimpleViewManager](https://github.com/React-Sextant/react-native-bridge-docs/wiki/SimpleViewManager)
+   - [ViewGroupManager](https://github.com/React-Sextant/react-native-bridge-docs/wiki/ViewGroupManager)
  - bridge
-   - [ReactContext](/React-Sextant/react-native-bridge-docs/wiki/ReactContext)
-   - [ReactContextBaseJavaModule](/React-Sextant/react-native-bridge-docs/wiki/ReactContextBaseJavaModule)
- - [ReactActivity](/React-Sextant/react-native-bridge-docs/wiki/ReactActivity)
- - [ReactActivityDelegate](/React-Sextant/react-native-bridge-docs/wiki/ReactActivityDelegate)
+   - [ReactContext](https://github.com/React-Sextant/react-native-bridge-docs/wiki/ReactContext)
+   - [ReactContextBaseJavaModule](https://github.com/React-Sextant/react-native-bridge-docs/wiki/ReactContextBaseJavaModule)
+ - [ReactActivity](https://github.com/React-Sextant/react-native-bridge-docs/wiki/ReactActivity)
+ - [ReactActivityDelegate](https://github.com/React-Sextant/react-native-bridge-docs/wiki/ReactActivityDelegate)
