@@ -14,3 +14,7 @@
    - [ReactContextBaseJavaModule](https://github.com/React-Sextant/react-native-bridge-docs/wiki/ReactContextBaseJavaModule)
  - [ReactActivity](https://github.com/React-Sextant/react-native-bridge-docs/wiki/ReactActivity)
  - [ReactActivityDelegate](https://github.com/React-Sextant/react-native-bridge-docs/wiki/ReactActivityDelegate)
+ 
+## 踩坑实录
+
+ 1. [FileProvider在React Native中的执行时机](https://github.com/React-Sextant/react-native-bridge-docs/issues/1)
