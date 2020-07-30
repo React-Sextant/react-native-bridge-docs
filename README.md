@@ -4,6 +4,14 @@
 ## 简介
  - [文档简介](https://github.com/React-Sextant/react-native-bridge-docs/wiki/文档简介)
 
+## 文档
+ - [Easing](https://github.com/React-Sextant/react-native-bridge-docs/issues/2)
+ - [StyleSheet](https://github.com/React-Sextant/react-native-bridge-docs/issues/3)
+ - [Color](https://github.com/React-Sextant/react-native-bridge-docs/issues/4)
+ - [DeviceEventEmitter](https://github.com/React-Sextant/react-native-bridge-docs/issues/5)
+ - [NativeEventEmitter](https://github.com/React-Sextant/react-native-bridge-docs/issues/5)
+ - [findNodeHandle](https://github.com/React-Sextant/react-native-bridge-docs/issues/6)
+
 ## Android源码目录
 #### com.facebook.react.*
  - uimanager
